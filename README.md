@@ -1,4 +1,4 @@
-This repo contains in Sybolic Bruteforce for Etherium Private-Key Bruteforcing
+This repo contains in Symbolic Etherium Private-Key Bruteforcing
 ### Idea , Origin and History 
 The Code has been written in late 2015 and Published in some Forums
 The First idea was writting a PoC for the strenght of the public/privatekey regarding to crypto-based-currencies
